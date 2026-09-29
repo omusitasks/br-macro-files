@@ -1,0 +1,120 @@
+#######(THURSDAY - AUGUST 13TH 2026)
+
+#######POST 1 morning
+
+Nebius is up another 34% this morning after yesterday's earnings pop. Cerebras is down 19% in the same premarket session, with both sitting inside the same AI-infrastructure trade.
+
+We've watched this split develop all week. CoreWeave and Super Micro beat and rallied. Coherent and Lumentum ran on a policy headline, then sold off before Lumentum reversed on its earnings. Now Nebius is being rewarded for what it delivered while Cerebras is being punished for missing revenue.
+
+The AI story is still the same. The market's tolerance for companies that don't deliver it isn't.
+
+That's the fifth data point in five sessions pointing the same way: after months of buying the theme, investors are starting to separate the companies that actually deliver from the ones trading on the story around them.
+
+Will today's PPI create the same kind of separation in the broader market, or will macro expectations still overpower company-specific results? 🍌
+
+
+#######POST 2 morning
+
+The VIX is sitting near its lowest level in months. Its futures are telling a different story.
+
+Stocks have fallen on four of the past five sessions, absorbed a fatal Middle East escalation, and are heading into another inflation print. Yet the VIX remains unusually subdued.
+
+Further out, though, VIX futures are priced higher. The market isn't pricing much turbulence right now; it's pricing more uncertainty ahead.
+
+We tend to read a low VIX as confidence. Sometimes it simply means today's market is calm while tomorrow's isn't.
+
+Watch whether that gap closes after today's PPI. If spot volatility rises toward the futures, the market may finally be catching up with the risk it has already been pricing further out. 🍌
+
+
+
+#######POST 3 midday
+
+PPI didn't just meet expectations this morning. It missed them, in the direction the Fed would want.
+
+July producer prices came in flat against a forecast for a 0.2% rise. That's a bigger surprise than yesterday's CPI, which landed exactly where economists expected.
+
+A softer-than-expected inflation reading should at least force some repricing. Instead, yields barely moved, stocks added a few tenths and kept going. A number that strengthened the disinflation story still hasn't meaningfully changed the tape.
+
+We've been watching the gap between the VIX and its futures all morning: calm priced now, more uncertainty priced later. PPI is showing something similar. New information arrived, but the market isn't changing its mind yet.
+
+The data changed this morning. The market's positioning barely did. That gap is what matters now. 🍌
+
+
+#######POST 4 midday
+
+Oil fell 2% this morning. The move had little to do with the war that's been driving the trade all week.
+
+Nothing de-escalated overnight. An Iranian official said talks have made no progress, and the blockade enforcement from earlier this week is still standing. The supply risk hasn't disappeared.
+
+But OPEC and the IEA both cut their demand forecasts this morning, and that's what the market traded. Not the ceasefire that didn't happen. Not the reserve depletion we've been watching. Demand became the new variable.
+
+We've spent days asking how tight the oil supply picture could become. This morning the market asked a different question: how much oil will the world actually need?
+
+Both stories can be true at once. Which one wins if the Iran situation hardens further today? 🍌
+
+
+#######POST 5 midday
+
+Cerebras raised its full-year revenue guidance this morning. It came in above analyst expectations. The stock fell as much as 19% anyway.
+
+It wasn't alone. Cisco beat on revenue and earnings and called out a networking supercycle. Down 7.41%. Coherent beat estimates too. Down 4.4%, with traders pointing to the bar Lumentum set earlier this week as evidence that a clean beat isn't necessarily clean enough anymore.
+
+This morning we were watching whether delivered numbers would keep winning over the AI narrative. They did — but today's reactions are making the bar clearer. It's no longer enough to beat the number. Investors are asking whether the entire quarter justifies what was already priced into the stock.
+
+Cerebras raised guidance while still posting a net loss. The market had to weigh both. Applied Materials reports tonight. Does its result clear the bar, or has the bar moved again? 🍌
+
+
+#######POST 6 midday
+
+Producer prices missed expectations at 8:30 this morning. For the first hour, almost nothing moved. Now the 2-year yield is down 6bps, more than three times the move immediately after the print, and September hike odds have slipped to roughly 35% from near 50% earlier this week.
+
+We tend to read a muted first reaction as the market deciding a number doesn't matter. Sometimes the market simply hasn't finished processing it.
+
+The repricing didn't happen in five minutes. It unfolded over the next two hours as yields kept grinding lower and rate expectations followed. That's not a shrug. It's a delayed verdict.
+
+The question now is whether that repricing keeps building through the afternoon, or whether the market settles here and waits for the next piece of evidence. 🍌
+
+
+
+#######POST 7 afternoon
+
+The S&P 500 crossed 7,800 for the first time today. The Dow fell.
+
+Both were trading through the same PPI surprise and the same falling Treasury yields, so why did lower rates lift one index while weighing on another?
+
+The difference is underneath the index. The S&P and Nasdaq carry much more semiconductor and mega-cap technology exposure, while the Dow has a heavier industrial and value mix. Rate relief is therefore reaching parts of the market very differently.
+
+Today's record isn't really a story about stocks. It's a story about which stocks are receiving the benefit of lower rates.
+
+If the Dow catches up before the close, the move may be broadening. If it keeps falling while the S&P climbs, today's rally is narrower than the headline suggests. 🍌
+
+
+#######POST 8 afternoon
+
+Chip stocks are rising today. The companies supplying the memory they're desperate for are rising much faster.
+
+SanDisk is up 15%. Micron is up 5.6%, while the broader chip index is up 1.8%. If this were simply an AI rally, you'd expect the group to move together. It isn't.
+
+The difference is where the AI spending is starting to show up. More AI infrastructure means more demand for the memory that feeds those systems, while capacity has already been pulled toward AI-related applications.
+
+We've spent months watching the money flow into data centers. Today, the market is repricing a more physical part of that chain: the chips required to keep them running.
+
+If Micron's strength survives into its earnings, the move looks more like a shift in the AI value chain. If it fades, today's surge may have been rotation rather than a structural change. 🍌
+
+
+
+#######MARKET CLOSE/CENSUS POST
+
+BR MARKET CLOSE — Thursday, August 13, 2026
+
+The market has already priced a softer inflation/Fed outcome, but the Fed itself hasn't confirmed that view. That makes today's record harder to chase than it looks.
+
+Two inflation prints in two days came in softer than expected — CPI landed in line, while PPI delivered a genuine downside surprise. Traders responded by pushing September hike odds down to roughly 35%, from around 55% a week ago, and the S&P 500 closed above its previous high.
+
+Then Cleveland Fed President Beth Hammack went on television and pushed against that interpretation. She said she still lacks confidence that inflation is cooling sustainably and repeated that the time to act is now. She is also one of three officials who have already dissented this year in favor of higher rates.
+
+So the contradiction isn't between the data and the market anymore. It's between the market's interpretation of the data and the people who actually set the rate.
+
+The trade isn't necessarily wrong. But the assumption underneath it is now clear: inflation has to keep cooperating while the Fed stays out of the way. If either breaks, today's record can become tomorrow's repricing.
+
+That's the gap worth carrying into tomorrow: does the Fed start validating what the market has already priced, or does the market discover it moved too early? 🍌
